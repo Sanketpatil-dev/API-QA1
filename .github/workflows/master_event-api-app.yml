@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Event-API-APP'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C898CAA846304033B82F0687F4C4F9F3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B60C9EA3635A4F89842439F6CE617738 }}
